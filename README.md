@@ -10,7 +10,7 @@
 ## 2. Instrucciones de Ejecución
 1. Clonar este repositorio público:
    ```bash
-   git clone https://github.com/jeziel3/EAPPP_Silva_Jeremyn.gitgit clone [https://github.com/jeziel3/EAPPP_Silva_Jeremyn.git](https://github.com/jeziel3/EAPPP_Silva_Jeremyn.git)
+   git clone https://github.com/jeziel3/EAPPP_Silva_Jeziel.gitgit clone [https://github.com/jeziel3/EAPPP_Silva_Jeziel.git](https://github.com/jeziel3/EAPPP_Silva_Jeziel.git)
 ** Abrir el archivo de solución (.sln) en Visual Studio 2022 / 2026.
 ** Compilar y ejecutar la aplicación presionando F5 (o mediante el botón Iniciar).
 ** Eventos Implementados (6/6)
